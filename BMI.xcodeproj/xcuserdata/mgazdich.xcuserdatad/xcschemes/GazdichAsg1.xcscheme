@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "D875134C17DE937E0096DE15"
-               BuildableName = "GazdichAsg1.app"
-               BlueprintName = "GazdichAsg1"
-               ReferencedContainer = "container:GazdichAsg1.xcodeproj">
+               BuildableName = "BMI.app"
+               BlueprintName = "BMI"
+               ReferencedContainer = "container:BMI.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "D875136D17DE937E0096DE15"
-               BuildableName = "GazdichAsg1Tests.xctest"
-               BlueprintName = "GazdichAsg1Tests"
-               ReferencedContainer = "container:GazdichAsg1.xcodeproj">
+               BuildableName = "BMITests.xctest"
+               BlueprintName = "BMITests"
+               ReferencedContainer = "container:BMI.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -43,9 +43,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "D875134C17DE937E0096DE15"
-            BuildableName = "GazdichAsg1.app"
-            BlueprintName = "GazdichAsg1"
-            ReferencedContainer = "container:GazdichAsg1.xcodeproj">
+            BuildableName = "BMI.app"
+            BlueprintName = "BMI"
+            ReferencedContainer = "container:BMI.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -58,13 +58,14 @@
       ignoresPersistentStateOnLaunch = "NO"
       debugDocumentVersioning = "YES"
       allowLocationSimulation = "YES">
-      <BuildableProductRunnable>
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "D875134C17DE937E0096DE15"
-            BuildableName = "GazdichAsg1.app"
-            BlueprintName = "GazdichAsg1"
-            ReferencedContainer = "container:GazdichAsg1.xcodeproj">
+            BuildableName = "BMI.app"
+            BlueprintName = "BMI"
+            ReferencedContainer = "container:BMI.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -76,13 +77,14 @@
       useCustomWorkingDirectory = "NO"
       buildConfiguration = "Release"
       debugDocumentVersioning = "YES">
-      <BuildableProductRunnable>
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "D875134C17DE937E0096DE15"
-            BuildableName = "GazdichAsg1.app"
-            BlueprintName = "GazdichAsg1"
-            ReferencedContainer = "container:GazdichAsg1.xcodeproj">
+            BuildableName = "BMI.app"
+            BlueprintName = "BMI"
+            ReferencedContainer = "container:BMI.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
